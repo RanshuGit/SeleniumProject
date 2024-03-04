@@ -1,0 +1,49 @@
+[
+{
+"firstName":"Ramu",
+"lastName":"Shirkhe",
+"email":"ramu@gmail.com",
+"mobileNo":"7768905432",
+"dateOfBirth":"17 Feb 2024",
+"subject":"English",
+"address":"Pune"
+},
+{
+"firstName":"Suyog",
+"lastName":"Shirkhe",
+"email":"suyog@gmail.com",
+"mobileNo":"7768905432",
+"dateOfBirth":"17 Feb 2024",
+"subject":"English",
+"address":"Nagar"
+},
+{
+"firstName":"Rohit",
+"lastName":"Mathew",
+"email":"rohit@gmail.com",
+"mobileNo":"7768905432",
+"dateOfBirth":"17 Feb 2024",
+"subject":"English",
+"address":"Pune"
+}
+,
+{
+"firstName":"Sanu",
+"lastName":"Rao",
+"email":"sanu@gmail.com",
+"mobileNo":"7768905432",
+"dateOfBirth":"17 Feb 2024",
+"subject":"English",
+"address":"Delhi"
+}
+,
+{
+"firstName":"Amit",
+"lastName":"Sahu",
+"email":"amit@gmail.com",
+"mobileNo":"7768905432",
+"dateOfBirth":"17 Feb 2024",
+"subject":"English",
+"address":"Kanpur"
+}
+]
