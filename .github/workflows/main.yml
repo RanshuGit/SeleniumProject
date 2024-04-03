@@ -17,6 +17,3 @@ jobs:
           target: 'http://www.itsecgames.com/'
           cmd_options: '-a -j -l WARN -z "-addoninstallall" '
           allow_issue_writing: true
-
-      - name: Upload html report
-        uses: actions/upload-artifact@v3
